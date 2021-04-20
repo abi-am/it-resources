@@ -47,3 +47,7 @@ Specify the name of the session to easily find it in the left-side panel. Go to 
 
 ![AS-W_08_session-name](https://user-images.githubusercontent.com/7588977/115361425-a09fdc00-a1d1-11eb-9dfd-2901128e5278.png)
 
+## Complete setup
+
+Click "OK" and start the new session. Next time, you will see the session name on the left panel and can directly launch it.
+
