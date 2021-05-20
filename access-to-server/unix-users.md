@@ -7,7 +7,7 @@
 
 3. Change the permissions of the .pem file so only the root user can read it:
 
-`chmod 400 ~/.ssh/your_key.pem`
+`chmod 400 ~/.ssh/your_key`
 
 4. Connect to server via this command:
 
