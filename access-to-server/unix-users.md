@@ -10,7 +10,7 @@ If you don't have a pablic/private key, create one with this command:
 
 `ssh-keygen -q -t rsa -f your_key.rsa -N ''`
 
-This command will create two files, your_key.rsa and your_key.rsa.pub. Copy the content of your_key.rsa.pub file and send it to system administrator.
+This command will create two files, _your_key.rsa_ and _your_key.rsa.pub_. Copy the content of _your_key.rsa.pub_ file and send it to system administrator.
 Then move created key file to the .ssh directory:
 
 `mv your_key ~/.ssh`
