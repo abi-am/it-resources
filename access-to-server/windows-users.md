@@ -42,14 +42,6 @@ Check the “Use private key” box and upload your private key.
 
 ![AS-W_07_private-key](https://user-images.githubusercontent.com/7588977/115361367-91209300-a1d1-11eb-8619-610b8433855f.png)
 
-If you are not provided with private key use one of the following methods to create your private and publick key pair. After generating the key, copy the public key content and send it to system administrator.
-
-Method 1(not secure)
-https://travistidwell.com/jsencrypt/demo/
-
-Method 2
-https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows
-
 ## Specify the session name
 Specify the name of the session to easily find it in the left-side panel. Go to “Bookmark settings” and type the name you like.
 
