@@ -22,7 +22,7 @@ On the left side you will see your previous sessions. If this is the first time 
 
 ## Specify the host address
 
-In the "Remote host" field specify the host IP address as: 185.127.66.93
+In the "Remote host" field specify the host IP address as: 185.127.66.159
 
 ![AS-W_04_host-address](https://user-images.githubusercontent.com/7588977/115361186-62a2b800-a1d1-11eb-844b-912aa3d8def4.png)
 
