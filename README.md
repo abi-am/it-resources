@@ -15,11 +15,11 @@ Follow [these instructions](https://github.com/abi-am/it-resources/blob/main/acc
 
 When you login to the server you will appear in the home directory. Don't do anything there. You need to redirect to the /storage/users/YOURUSERNAME or the /storage2/users/YOURUSERNAME directories and keep your private files there. Please, keep your workspace tidy. Remove the intermediate files as soon as possible so that there is space left for others to work. Note, that we are very limited in space right now. 
 
-### Step 4: using the programs
+## Using the programs
 
-### Step 5: putting jobs to run
+## Running jobs
 
-### Shared project folders
+## Shared project folders
 
-### Genome indices
+## Genome indices
 
