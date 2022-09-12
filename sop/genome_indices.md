@@ -20,7 +20,7 @@ Example file tree
       index files      
     - star_2.8.0
       index files
-  - GRCh38.p13_GCA_000001405.28
+  - GRCh38.p14_GCA_000001805.02
     - fa
     - gtf
     - gff
