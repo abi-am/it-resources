@@ -2,25 +2,30 @@ The prebuilt genome indices should be stored in the /shared folder.
 
 ## File tree
 - organism-name
-  - program
-    - genome version
+  - genome version
+    - fa
+    - gtf
+    - gff
+    - program
       - index files
 
 Example file tree 
 
-- homo-sapiens
-  - star_1.2.8
-    - GRCh38.p13_GCA_000001405.28
-      - fa
-      - gtf
-      - gff
-      - index
-        - index files
-    - GRCh38.p10_GCA_000001305.21
-  - star_2.8.0
-    - GRCh38.p13_GCA_000001405.28
-  - bowtie_2.0.0
-    - GRCh38.p13_GCA_000001405.28
+- homo-sapiens  
+  - GRCh38.p13_GCA_000001405.28
+    - fa
+    - gtf
+    - gff
+    - star_1.2.8
+      index files      
+    - star_2.8.0
+      index files
+  - GRCh38.p13_GCA_000001405.28
+    - fa
+    - gtf
+    - gff
+    - bowtie_2.0.0    
+      index files
 - mus-musculus
   - ...
 
