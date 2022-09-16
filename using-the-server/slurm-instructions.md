@@ -35,4 +35,4 @@ scancel 3564
 ```
 
 
-For more detailed information see the slurm documentation.
+For more detailed information see the [slurm documentation](https://slurm.schedmd.com/documentation.html).
