@@ -11,4 +11,4 @@
 
 4. Connect to server via this command:
 
-`ssh -i ~/.ssh/your_key.rsa username@185.127.66.159`
+`ssh -i ~/.ssh/your_key.rsa username@ip_address
