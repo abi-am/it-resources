@@ -13,7 +13,8 @@ Follow [these instructions](https://github.com/abi-am/it-resources/blob/main/acc
 
 ### Step 3: where to work
 
-When you login to the server you will appear in the home directory. Don't do anything there. You need to redirect to the /storage/users/YOURUSERNAME or the /storage2/users/YOURUSERNAME directories and keep your private files there. Please, keep your workspace tidy. Remove the intermediate files as soon as possible so that there is space left for others to work. Note, that we are very limited in space right now. 
+When you login to the server you will appear in the home directory. Don't do anything there. You need to redirect to the /storage/users/YOURUSERNAME or the /storage2/users/YOURUSERNAME directories and keep your private files there. Please, keep your workspace tidy. Remove the intermediate files as soon as possible so that there is space left for others to work. Note, that we are very limited in space right now. Before running any storage intensive job or downloading big data files ALWAYS check available storage with the following command:
+``df -h .``
 
 ## Using the programs
 
