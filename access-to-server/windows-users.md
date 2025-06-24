@@ -22,18 +22,18 @@ On the left side you will see your previous sessions. If this is the first time 
 
 ## Specify the host address
 
-In the "Remote host" field specify the host IP address as: 185.127.66.159
+In the "Remote host" field, specify the host IP address
 
 ![AS-W_04_host-address](https://user-images.githubusercontent.com/7588977/115361186-62a2b800-a1d1-11eb-844b-912aa3d8def4.png)
 
 ## Specify your username
 
-Check the “Specify username” box and put your username.
+Check the “Specify username” box and enter your username.
 
 ![AS-W_05_user-name](https://user-images.githubusercontent.com/7588977/115361232-6f271080-a1d1-11eb-892b-62192cd51a41.png)
 
 ## Disable X11 forwarding(skip if you plan to use softwares with graphical interface)
-Go to “Advanced SSH settings” tab and unselect X11 forwarding
+Go to the “Advanced SSH settings” tab and unselect X11 forwarding
 
 ![AS-W_06_x11](https://user-images.githubusercontent.com/7588977/115361295-8108b380-a1d1-11eb-9643-ff42404cea7d.png)
 
