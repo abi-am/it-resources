@@ -27,8 +27,9 @@ You will get the following output
 
 You may run `cat .ssh/id_ed25519.pub` to see your public key. Please share the public key with your system administrator.
 
-# Private key location
+### Private key location
 You can find your private key in the C:\Users\user_name\.ssh folder in Windows OS
+
 You can find your private key in the /home/user_name/.ssh folder in Unix OS
 
 Please replace user_name in the path with your actual username
