@@ -17,6 +17,7 @@ ABI servers do not authenticate with username/password, instead we use username 
 ```
 ssh-keygen -a 96 -t ed25519
 ```
+After running the command, press Enter to accept the file name, leave the passphrase field blank, and press Enter two more times
 
 You will get the following output
 
@@ -25,6 +26,12 @@ You will get the following output
 ## Sharing your key
 
 You may run `cat .ssh/id_ed25519.pub` to see your public key. Please share the public key with your system administrator.
+
+# Private key location
+You can find your private key in the C:\Users\user_name\.ssh folder in Windows OS
+You can find your private key in the /home/user_name/.ssh folder in Unix OS
+
+Please replace user_name in the path with your actual username
 
 ## Logging into a server
 
